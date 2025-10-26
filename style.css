@@ -2,6 +2,14 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.section-one {
+    background-color: #1F2937;
+}
+
+.logo {
+    color: #F9FAF8;
+}
+
 .links {
     list-style-type: none;
 }
@@ -14,4 +22,14 @@ a {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+.hero-sec {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
