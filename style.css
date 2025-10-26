@@ -9,3 +9,9 @@ body {
 a {
     text-decoration: none;
 }
+
+.hero-main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
