@@ -12,11 +12,14 @@ body {
 
 .links {
     list-style-type: none;
+    display: flex;
+    gap: 8px;
 }
 
 a {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px;
 }
 
 .hero-main {
@@ -33,4 +36,9 @@ a {
 .hero-logo {
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
 }
