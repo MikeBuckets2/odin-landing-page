@@ -6,6 +6,8 @@ body {
 /* header section */
 .header {
     background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
 }
 
 a {
@@ -16,6 +18,8 @@ a {
 
 ul {
     list-style-type: none;
+    display: flex;
+    gap: 8px;
 }
 
 .logo {
