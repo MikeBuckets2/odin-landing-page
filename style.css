@@ -53,6 +53,16 @@ ul {
     background-color: #3882F6;
 }
 
+.hero-logo {
+    background-color: gray;
+    color: white;
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* info section */
 .info-head {
     font-size: 36px;
