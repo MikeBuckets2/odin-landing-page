@@ -55,6 +55,8 @@ ul {
     background-color: #3882F6;
     color: white;
     border: none;
+    padding: 10px 30px;
+    border-radius: 8px;
 }
 
 .hero-logo {
