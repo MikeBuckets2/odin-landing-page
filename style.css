@@ -42,15 +42,19 @@ ul {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin-bottom: 10px;
 }
 
 .hero-sec {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 20px;
 }
 
 .hero-text button {
     background-color: #3882F6;
+    color: white;
+    border: none;
 }
 
 .hero-logo {
@@ -61,6 +65,10 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.hero-text {
+    max-width: 450px;
 }
 
 /* info section */
