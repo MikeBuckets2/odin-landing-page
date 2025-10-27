@@ -26,3 +26,8 @@ a {
 ul {
     list-style-type: none;
 }
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
