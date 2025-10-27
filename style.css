@@ -113,12 +113,19 @@ p {
 /* quote section */
 .quote {
     background-color: #E5E7EB;
+    padding: 100px 300px;
 }
 
 .quote-text {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+}
+
+.customer {
+    text-align: right;
+    margin-top: 20px;
+    font-weight: bold;
 }
 
 /* call section */
