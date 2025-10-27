@@ -31,3 +31,12 @@ ul {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.section-four,
+button {
+    background-color: #3882F6;
+}
+
+.section-four button {
+    border: 1px solid white;
+}
