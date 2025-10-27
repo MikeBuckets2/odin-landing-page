@@ -8,6 +8,16 @@ body {
     background-color: #1F2937;
 }
 
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
 /* hero section */
 .hero {
     background-color: #1F2937;
@@ -17,6 +27,11 @@ body {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+.hero-sec {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 /* info section */
