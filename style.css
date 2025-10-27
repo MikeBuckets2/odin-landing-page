@@ -4,8 +4,14 @@ body {
 }
 
 /* header section */
+.header {
+    background-color: #1F2937;
+}
 
 /* hero section */
+.hero {
+    background-color: #1F2937;
+}
 
 /* info section */
 
@@ -14,3 +20,6 @@ body {
 /* call section */
 
 /* footer section */
+.footer {
+    background-color: #1F2937;
+}
