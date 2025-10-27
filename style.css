@@ -63,5 +63,13 @@ button {
 
 .body {
     display: flex;
+    flex-direction: column;
     flex: 1;
+}
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
 }
