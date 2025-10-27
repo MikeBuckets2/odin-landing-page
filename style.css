@@ -39,11 +39,22 @@ ul {
     color: #E5E7EB;
 }
 
+.hero-text button {
+    background-color: #3882F6;
+}
+
 /* info section */
 
 /* quote section */
 
 /* call section */
+.call {
+    background-color: #3882F6;
+}
+
+.call button {
+    background-color: #3882F6;
+}
 
 /* footer section */
 .footer {
