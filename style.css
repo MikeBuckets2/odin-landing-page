@@ -1,3 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
 }
+
+.section-one, 
+.footer {
+    background-color: #1F2937;
+}
