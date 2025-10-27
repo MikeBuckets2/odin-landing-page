@@ -35,8 +35,15 @@ ul {
 .section-four,
 button {
     background-color: #3882F6;
+    color: white;
 }
 
 .section-four button {
     border: 1px solid white;
+}
+
+.info-head {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
 }
