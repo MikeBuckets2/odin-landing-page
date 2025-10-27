@@ -8,6 +8,7 @@ body {
 
 .logo {
     color: #F9FAF8;
+    margin: 8px;
 }
 
 .links {
@@ -26,11 +27,13 @@ a {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    flex: 1;
 }
 
 .hero-sec {
     font-size: 18px;
     color: #E5E7EB;
+    flex: 1;
 }
 
 .hero-logo {
@@ -41,4 +44,8 @@ a {
 .header {
     display: flex;
     justify-content: space-between;
+}
+
+.hero {
+    display: flex;
 }
