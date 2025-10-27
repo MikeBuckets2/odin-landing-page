@@ -33,6 +33,9 @@ ul {
 .hero {
     background-color: #1F2937;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 200px;
 }
 
 .hero-main {
